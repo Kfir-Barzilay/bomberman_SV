@@ -1,1 +1,6 @@
-about the project
+this game was planned with my partner, Shirry Tal, on August 23'. We design the game on an FPGA card.
+ The purpose of the game is to achieve as many points as you can before the timer or the life remaine reaches zero.
+You can lose life if the player is collied with an explosion from a bomb or mine. The mines are scattered across the screen and explode each time an explosion or a player touches it.
+ The player can put one bomb on the screen when he presses the "ENTER" button, the bomb will appear in the player's position, and wait a few seconds till the explosion.
+bombs can decrease the player's life count and break some walls. Some of the walls in the game can be broken into different levels (one hit / two hits / three hits).
+the player gains points from exploding temp walls and mines
